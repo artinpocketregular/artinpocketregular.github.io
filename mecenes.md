@@ -1,16 +1,16 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Mecenes
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.categories['mecenes'] %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-      {% if post.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}
+      <span class="gu">- mecenes</span>
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>

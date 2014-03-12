@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Artinpocket ha escollit Verkami per buscar finançament
+share: true
 ---
 
 <figure class="text-center">

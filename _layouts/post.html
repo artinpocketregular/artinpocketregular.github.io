@@ -6,17 +6,19 @@ layout: default
   <h1 class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.category == 'mecenes' %}
-  <div class="container card">
     {{ content }}
-    <p class="text-right"><small><i class="fa fa-credit-card"></i> <a href="#">Fes-la teva aportació</a></small></p>
-  </div>
+    <p class="text-right"><small>Apadrina <a href="https://twitter.com/search?q=%23artinpocketregular&src=typd&f=realtime">#ArinpocketRegular</a>. Lletres al servei de l'art, jo ja ho he fet &ndash; <i class="fa fa-credit-card"></i> <a href="#">Fes-la teva aportació</a></small></p>
   {% else if %}
   {{ content }}
   {% endif %}
   {% if page.share %}<div class="social-share">
           <ul class="socialcount socialcount-small inline-list">
             <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
-            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+            {% if page.category == 'mecenes' %}
+            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}'" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+            {% else if %}
+            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}&url={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+            {% endif %}
             <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
           </ul>
         </div>{% endif %}

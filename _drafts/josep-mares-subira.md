@@ -4,5 +4,6 @@ title: Josep Marés Subirà
 category: mecenes
 ---
 
-He aportat 10 €
+- ![Josep Marés Subirà - mecenes d'artipocket/regular](/public/img/josep-mares-subira-mecenes-artinpocket-regular.png "Josep Marés Subirà - mecenes d'artipocket/regular")
+- [@pepmares](https://twitter.com/pepmares "Josep Marés i Subirà (pepmares) a Twitter")
 
