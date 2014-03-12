@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ca" lang="ca">
+
+  {% include head.html %}
+
+  <body class="theme-base-0a">
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        {{ content }}
+      </div>
+    </div>
+
+    <footer class="related">
+      <div class="container">
+      <p>{{ site.description }}</p>
+      <p class="text-right">
+        <a href="https://twitter.com/Artinpocket" title="Twitter" rel="external"><i class="fa fa-twitter"></i></a> <a href="https://www.facebook.com/pages/Artinpocket/617130554970586" title="Facebook" rel="external"><i class="fa fa-facebook"></i></a> <a href="http://www.pinterest.com/artinpocket/" title="Pinterest" rel="external"><i class="fa fa-pinterest"></i></a> <a href="http://www.linkedin.com/company/artinpocket" title="Linkedin" rel="external"><i class="fa fa-linkedin"></i></a> <a href="mailto:info@artinpokect.cat" title="Correu-e" rel="external"><i class="fa fa-envelope"></i></a></span>
+      </p>
+      </div>
+    </footer>
+
+  </body>
+</html>

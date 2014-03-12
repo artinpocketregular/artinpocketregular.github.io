@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% if page.category == 'mecenes' %}
+  <div class="container card">
+    {{ content }}
+    <p class="text-right"><small><i class="fa fa-credit-card"></i> <a href="#">Fes-la teva aportació</a></small></p>
+  </div>
+  {% else if %}
+  {{ content }}
+  {% endif %}
+  {% if page.share %}<div class="social-share">
+          <ul class="socialcount socialcount-small inline-list">
+            <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
+            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+            <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
+          </ul>
+        </div>{% endif %}
+</div>
+
+<div class="related">
+  <h2>Altres entrades</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
