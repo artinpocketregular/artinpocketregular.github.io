@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Mecenes
+title: Mur dels mecenes
 ---
 
 <div class="posts">
   {% for post in site.categories['mecenes'] %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-      <span class="gu">- mecenes</span>
-    </h1>
+    </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
