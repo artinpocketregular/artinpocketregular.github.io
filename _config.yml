@@ -8,19 +8,19 @@ permalink:        pretty
 # Setup
 title:            artinpocket/regular
 tagline:          La tipografia de l'art
-description:      Bloc del <a href="http://www.verkami.com/" target="_blank">Verkami</a> <a href="http://www.artinpocket.cat" target="_blank">artinpocket</a> per dur una nova tipografia a l'art. Creat per <a href="http://www.oxygen.cat/" target="_blank">Oxygen.cat</a>.
+description:      Bloc del <a href="http://www.verkami.com/projects/8133-tipografia-artinpocket-regular" target="_blank">Verkami</a> <a href="http://www.artinpocket.cat" target="_blank">artinpocket</a> per dur una nova tipografia a l'art. Creat per <a href="http://www.oxygen.cat/" target="_blank">Oxygen.cat</a>.
 url:              http://www.artinpocketregular.com
 
 author:
   name:           'Ramon Gil'
   url:            https://twitter.com/freecates
 
-paginate:         5
+paginate:         6
 
 # Custom vars
 version:          1.0.0
 
 verkami:
-  repo:           http://www.verkami.com/
+  repo:           http://www.verkami.com/projects/8133-tipografia-artinpocket-regular
 
 twitter-sentence: "| Apadrina #ArinpocketRegular, jo ja ho he fet"
