@@ -121,9 +121,6 @@ h1 span {
   body.mur .post:nth-child(4n+1) {
     clear:both;
   }
-  body.mur .post {
-    width: 10rem;
-  }
 }
 
 /*
