@@ -160,7 +160,7 @@ h1 span {
   }
 }
 @media (min-width: 68rem) {
-  .container {
+  body.mur .container {
     max-width: 46rem;
   }
 }
