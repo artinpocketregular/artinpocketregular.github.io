@@ -15,7 +15,7 @@ author:
   name:           'Ramon Gil'
   url:            https://twitter.com/freecates
 
-paginate:         6
+paginate:         8
 
 # Custom vars
 version:          1.0.0
