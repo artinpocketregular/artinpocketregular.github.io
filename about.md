@@ -1,6 +1,7 @@
 ---
 layout: page
 title: El projecte
+published: true
 ---
 
 <figure class="text-center">
@@ -14,4 +15,4 @@ title: El projecte
 
 ##artinpocket/regular
 
-[artinpocket/regular](#) és una campanya que iniciem per a desenvolupar, **artinpocket/regular**, una tipografia pròpia i adequada per al món de les arts plàstiques i visuals. Sota una llicencia de **Creative Commons** aquesta es podrà utilitar i compartir voluntàriament, lliurant-los llicències i eines lliures que els permetin aprofitar al màxim tota la ciència, coneixement i cultura disponible en Internet.
+[artinpocket/regular](http://www.verkami.com/projects/8133-tipografia-artinpocket-regular) és una campanya que iniciem per a desenvolupar, **artinpocket/regular**, una tipografia pròpia i adequada per al món de les arts plàstiques i visuals. Sota una llicencia de **Creative Commons** aquesta es podrà utilitar i compartir voluntàriament, lliurant-los llicències i eines lliures que els permetin aprofitar al màxim tota la ciència, coneixement i cultura disponible en Internet.
