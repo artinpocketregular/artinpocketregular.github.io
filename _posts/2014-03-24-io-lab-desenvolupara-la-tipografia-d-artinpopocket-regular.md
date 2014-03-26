@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Io Lab desenvoluparà la tipografia d'Artinpopocket Regular
+title: "Io Lab desenvoluparà la tipografia d'Artinpocket Regular"
 share: true
+published: true
 ---
 
 <figure class="text-center">
@@ -17,4 +18,4 @@ share: true
 
 Treballen amb clients nacionals i internacionals i, entre altres, l'estudi és el responsable de la gràfica d'exposicions i catàlegs de l'Artium, Museu d'Art contemporani de Vitòria; el disseny i maquetació de la revista Concreta d'art i fotografia; de direcció creativa i d'art de diversos projectes del Centre de Documentació Europea com el llibre interactiu Montblanc, i de la direcció d'art i disseny de la FEEC, Federació d'entitats excursionistes de Catalunya.
 
-Ió Lab ha desenvolupat projectes de comunicació globals, des d'identitats corporatives, dissenys editorials, exposicions, branding i disseny web. Paral·lelament l'estudi ha iniciat i ha produït projectes centrats en les qüestions socials i culturals, l'edició de llibres i el festival de cinema Maremostra a Palma de Mallorca. **Ió Lab s'ha sumat a la inciativa d'Artinpocket** tot un repte per nosaltres i per l'estudi que iniciem amb ganes d'apendre, energina i il.lusió. 
+Ió Lab ha desenvolupat projectes de comunicació globals, des d'identitats corporatives, dissenys editorials, exposicions, branding i disseny web. Paral·lelament l'estudi ha iniciat i ha produït projectes centrats en les qüestions socials i culturals, l'edició de llibres i el festival de cinema Maremostra a Palma de Mallorca. **Ió Lab s'ha sumat a la inciativa d'Artinpocket** tot un repte per nosaltres i per l'estudi que iniciem amb ganes d'apendre, energina i il.lusió.
