@@ -2,6 +2,9 @@
 markdown:         redcarpet
 pygments:         true
 
+
+excerpt_separator: \--more--\
+
 # Permalinks
 permalink:        pretty
 
@@ -24,3 +27,7 @@ verkami:
   repo:           http://www.verkami.com/projects/8133-tipografia-artinpocket-regular
 
 twitter-sentence: "| Apadrina #ArinpocketRegular, jo ja ho he fet"
+
+assets: 
+  baseurl: /public/
+

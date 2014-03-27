@@ -1,21 +1,23 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Dia a dia
+category: mur-diari
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.categories['general'] %}
   <div class="post">
-    <h1 class="post-title">
+    
+    <h2 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-      {% if post.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}{% if post.category == 'patrocinadors' %}<span class="gu">- patrocinadors</span>{% endif %}
-    </h1>
+    </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-  {{ post.content }}
+    {{ post.excerpt }} <p><a href="{{ post.url }}"><i class="fa fa-plus-square-o"></i></a></p>
+
   </div>
   {% endfor %}
 </div>

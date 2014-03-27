@@ -65,12 +65,12 @@ h1 span {
   font-size: 1.5rem;
 }
 @media (min-width: 38rem) {
-  body.mur .post {
+  body.mur .post, body.mur-diari .post {
     width: 14rem;
     float:left;
     margin: .25rem;
   }
-  body.mur .post:nth-child(2n+1) {
+  body.mur .post:nth-child(2n+1), body.mur-diari .post:nth-child(2n+1) {
     clear:both;
   }  
   h1, figure {
@@ -79,10 +79,10 @@ h1 span {
   figure {
     margin: inherit;
   }
-  body.mur .post figure {
+  body.mur .post figure, body.mur-diari .post figure {
     margin-left: 0
   }
-  body.mur .pagination {
+  body.mur .pagination, body.mur-diari .pagination {
     clear: both;
   }
   h1 {
@@ -93,6 +93,9 @@ h1 span {
   }
 }
 @media (min-width: 56rem) {
+  body.mur-diari .post {
+    width: 17rem;
+  }
   body.mur .post {
     width: 11rem;
     float:left;
@@ -123,6 +126,17 @@ h1 span {
   }
   body.mur .post {
     width: 10rem;
+  }
+  body.mur-diari .post {
+    width: 14rem;
+    float:left;
+    margin: .25rem;
+  }
+  body.mur-diari .post:nth-child(3n+1) {
+    clear:both;
+  }
+  body.mur-diari .post:nth-child(2n+1) {
+    clear:none;
   }
 }
 
@@ -160,7 +174,7 @@ h1 span {
   }
 }
 @media (min-width: 68rem) {
-  body.mur .container {
+  body.mur .container, body.mur-diari .container {
     max-width: 46rem;
   }
 }

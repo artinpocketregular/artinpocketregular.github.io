@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %}</h1>
+  <h1 class="post-title">{{ page.title }} {% if page.category == 'mecenes' %}<span class="gu">- mecenes</span>{% endif %} {% if page.category == 'patrocinadors' %}<span class="gu">- patrocinadors</span>{% endif %}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  {% if page.category == 'mecenes' %}
+  {% if page.category == 'mecenes' or page.category == 'patrocinadors' %}
     {{ content }}
     <p><small><i class="fa fa-heart"></i> Apadrina <a href="https://twitter.com/search?q=%23artinpocketregular&src=typd&f=realtime">#ArinpocketRegular</a>. Lletres al servei de l'art, jo ja ho he fet &ndash; <i class="fa fa-credit-card"></i> <a href="http://www.verkami.com/projects/8133-tipografia-artinpocket-regular">Fes-la teva aportació</a></small></p>
   {% else if %}
@@ -14,7 +14,7 @@ layout: default
   {% if page.share %}<div class="social-share">
           <ul class="socialcount socialcount-small inline-list">
             <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
-            {% if page.category == 'mecenes' %}
+            {% if page.category == 'mecenes' or page.category == 'patrocinadors' %}
             <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}'" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
             {% else if %}
             <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}&url={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>

@@ -2,7 +2,7 @@
 layout: post
 title: "Io Lab desenvoluparà la tipografia d'Artinpocket Regular"
 share: true
-published: true
+category: general
 ---
 
 <figure class="text-center">
@@ -13,6 +13,8 @@ published: true
 </figure>
 
 **Artinpocket** és una comunitat que neix amb la voluntat d'obrir nous canals per promoure i divulgar l'art contemporani. Una plataforma online que **uneix la promoció d'artistes amb un canal directe de venda i compra d'obres**.  Va ser treballant per aquests conceptes amb els responsables d'Ió Lab que va sorgir-nos la idea de crear una tipografia pròpia que fos adequada per a ser utilitzada en el món de les arts plàstiques.
+
+\--more--\
 
 **Ió Lab** és un estudi de disseny creat per Ima Ferri i Jaume Marco a València l'any 2009, actualment han establert la seu a Mallorca.  **Els agrada explicar històries a través de múltiples plataformes i formats**, aportant personalitat a les marques de forma més global; vídeo, fotografia, identitat visual, disseny editorial, web i motion graphics. Aquesta és la raó per la qual col·laboren sovint amb fotògrafs, programadors, realitzadors o escriptors. Es defineixen mitjançant aquest proverbi japonés, "cap de nosaltres és tan intel·ligent com tots nosaltres junts".
 
