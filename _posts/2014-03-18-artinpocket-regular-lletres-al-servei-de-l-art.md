@@ -14,7 +14,7 @@ category: general
 
 Sota una llicència de [Creative Commons](http://cat.creativecommons.org/ 'Creative Commons') iniciem el projecte **Artinpocket Regular** amb l'objectiu de desenvolupar, una tipografia pròpia i adequada per al món de les arts plàstiques i visuals. Amb Artinpocket Regular tota aquella persona i/o entitat la podrà utilitzar lliurement la tipografia per a les seves edicions, textos i webs. 
 
-\--more--\
+<!--more-->
 
 Volem crear una tipografia amb **llicència oberta** per posar-la al servei de l'art i la cultura contemporànies. Lletres que esdevinguin una veu adient per als projectes culturals i artístics i s'adeqüin a la cultura visual del públic objectiu. Una eina apta per al món de la creació contemporània, útil pels professionals que hi prenen part: artistes, gestors culturals, dissenyadors gràfics. En aquest sentit amb el teu suport contribuiràs a l'estudi i el desenvolupament d'una tipografia amb llicència creative commons al servei de l'art i la cultura.
 

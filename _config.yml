@@ -3,7 +3,7 @@ markdown:         redcarpet
 pygments:         true
 
 
-excerpt_separator: \--more--\
+excerpt_separator: <!--more-->
 
 # Permalinks
 permalink:        pretty

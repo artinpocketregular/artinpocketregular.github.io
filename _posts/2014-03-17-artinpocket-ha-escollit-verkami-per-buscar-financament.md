@@ -14,7 +14,7 @@ category: general
 
 [ArtInPocket](http://www.artinpocket.cat/ 'Artinpocket, la comunitat de compra venda d'art accessible amb un sol clic') ha escollit **Verkami** com a plataforma de crowdfunding per finançcar la tipografia **Artinpocket Regular** perquè verkami dóna suport a projectes innovadors i creatius una nova manera de finançar grans idees i creadors independents.
 
-\--more--\
+<!--more-->
 
 Pensem de la mateixa manera que pensen els seus impulsos: Verkami és l'alternativa als models tradicionals de finançament per a artistes, creadors, dissenyadors, col·lectius... Un model basat en la complicitat amb el públic, una nova experiència de consum cultural i una component militant i de mecenatge.
 
