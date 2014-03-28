@@ -16,7 +16,6 @@ category: mur
       </a>
     </h2>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
   </div>
   {% endfor %}
 </div>
