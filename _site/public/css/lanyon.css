@@ -84,6 +84,7 @@ h1 span {
   }
   body.mur footer.related, body.mur-diari footer.related {
     clear: both;
+    margin-top:3rem;
   }
   h1 {
     font-size: 3rem;

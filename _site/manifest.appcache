@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+# rev 2014-03-31 13:41:01 +0200
+
+CACHE:
+http://www.artinpocketregular.com/public/css/lanyon.min.css
+http://www.artinpocketregular.com/public/css/poole.min.css
+http://www.artinpocketregular.com/public/css/syntax.min.css
+
+http://www.artinpocketregular.com/atom.xml
+http://www.artinpocketregular.com/patrocinadors/
+http://www.artinpocketregular.com/mecenes/
+http://www.artinpocketregular.com/sitemap.xml
+http://www.artinpocketregular.com/about/
+http://www.artinpocketregular.com/
+
+http://www.artinpocketregular.com/dia-a-dia/
+http://www.artinpocketregular.com/404.html
+http://www.artinpocketregular.com/page2/
+http://www.artinpocketregular.com/page3/
+http://www.artinpocketregular.com/page4/
+
+
+NETWORK:
+*
+http://*
+https://*
