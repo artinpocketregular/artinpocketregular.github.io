@@ -16,4 +16,6 @@ category: general
 
 Avui fa just una setmana que [Artinpocket](http://www.artinpocket.cat/) començava la campanya al Verkami per desenvolupar **Artinpocket Regular, lletres al servei de l'art**. En escriure aquestes línies portem recaptats un total de 1.555€ fet que ens il·lusiona i ens fa ser optimistes però prudents per intentar aconseguir la fita d'arribar als 4.000€ que ens falten per a poder fer l'estudi i el desenvolupament de la tipografia.
 
+<!--more-->
+
 Per celebrar els set dies de campanya presentem el vídeo d'Artinpocket Regular que us animem a compartir i difondre entre les vostres amistats, coneguts i parents. Tota ajuda és benvinguda i com diu la dita: "de mica en mica s'omple la pica”, nosaltres **ja tenim la pica mig plena, ens ajudes a omplir-la**?
