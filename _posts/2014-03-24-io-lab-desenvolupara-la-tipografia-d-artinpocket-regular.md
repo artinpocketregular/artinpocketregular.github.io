@@ -6,7 +6,7 @@ category: general
 ---
 
 <figure class="text-center">
-	<img src="/public/img/03-verkami-apadrina-una-lletra-artinpocket-regular-25-euros.jpg" alt="artinpocket/regular - Apadrina una lletra - 5 euros" title="artinpocket/regular - Apadrina una lletra - 10 euros">
+	<img src="/public/img/03-verkami-apadrina-una-lletra-artinpocket-regular-25-euros.jpg" alt="artinpocket/regular - Apadrina una lletra - 25 euros" title="artinpocket/regular - Apadrina una lletra - 25 euros">
 	<figcaption>
 		<p><small>artinpocket/regular - Apadrina una lletra - 25 euros</small></p>
 	</figcaption>
