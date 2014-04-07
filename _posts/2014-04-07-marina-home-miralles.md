@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marina Homs Miralles
+title: Untitled
 category: mecenes
 share: true
 published: true
