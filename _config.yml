@@ -31,3 +31,16 @@ twitter-sentence: "| Apadrina #ArinpocketRegular, jo ja ho he fet"
 assets: 
   baseurl: /public/
 
+# Prose
+prose:
+  rooturl: ''
+  siteurl: 'http://www.artinpocketregular.com/'
+  media: 'public/img'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          value: ""
+
