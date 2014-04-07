@@ -3,6 +3,7 @@ layout: post
 title: Marina Homs Miralles
 category: mecenes
 share: true
+published: true
 ---
 
 <figure class="text-center">
