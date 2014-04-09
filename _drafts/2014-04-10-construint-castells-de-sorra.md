@@ -6,9 +6,9 @@ category: general
 ---
 
 <figure class="text-center">
-	<img src="/public/img/primers-dibuixos-de-jordi-mitja-per-al-vostre-gravat-verkami-apadrina-una-lletra-artinpocket-regular.jpg" alt="artinpocket/regular - Primers dibuixos de Jordi Mitjà per al vostre gravat" title="artinpocket/regular - Primers dibuixos de Jordi Mitjà per al vostre gravat">
+	<img src="/public/img/03-verkami-apadrina-una-lletra-artinpocket-regular-25-euros.jpg" alt="artinpocket/regular - Apadrina una lletra - 25 euros" title="artinpocket/regular - Apadrina una lletra - 25 euros">
 	<figcaption>
-		<p><small>artinpocket/regular - Primers dibuixos de Jordi Mitjà per al vostre gravat</small></p>
+		<p><small>artinpocket/regular - Apadrina una lletra - 25 euros</small></p>
 	</figcaption>
 </figure>
 
