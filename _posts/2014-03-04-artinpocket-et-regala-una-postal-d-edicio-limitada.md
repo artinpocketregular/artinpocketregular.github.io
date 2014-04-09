@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Artinpocket et regala una postal d'edició limitada"
 share: true
 category: general
 published: true

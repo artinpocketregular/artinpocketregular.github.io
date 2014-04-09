@@ -101,11 +101,11 @@ h1 span {
     float:left;
     margin: .25rem;
   }
-  body.mur .post:nth-child(3n+1) {
-    clear:both;
-  }
   body.mur .post:nth-child(2n+1) {
     clear:none;
+  }
+  body.mur .post:nth-child(3n+1) {
+    clear:both;
   }
   h1, figure {
     margin-left: -4rem;
@@ -132,11 +132,11 @@ h1 span {
     float:left;
     margin: .25rem;
   }
-  body.mur-diari .post:nth-child(3n+1) {
-    clear:both;
-  }
   body.mur-diari .post:nth-child(2n+1) {
     clear:none;
+  }
+  body.mur-diari .post:nth-child(3n+1) {
+    clear:both;
   }
 }
 
