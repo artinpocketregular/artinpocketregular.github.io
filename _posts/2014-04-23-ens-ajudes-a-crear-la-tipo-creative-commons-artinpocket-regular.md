@@ -13,7 +13,7 @@ published: true
 	</figcaption>
 </figure>
 
-T'imagines unes lletres al servei de l'art? **Una tipografia d'ús lliure per al món de l'art i la cultura**? T'imagines que pugui ser emprada d'una manera gratuïta en webs i blocs, edicions i catàlegs de l'àmbit artístic, documents i tot tipus de material divulgatiu?  I en definitiva per tothom que vulgui? Què et sembla construir ArtInPocket Regular? Vols ser **el padrí d'unes lletres**?
+T'imagines unes lletres al servei de l'art? **Una tipografia d'ús lliure per al món de l'art i la cultura**? T'imagines que pugui ser emprada d'una manera gratuïta en webs i blocs, edicions i catàlegs de l'àmbit artístic, documents i tot tipus de material divulgatiu?  I en definitiva per tothom que vulgui? Què et sembla construir ArtInPocket Regular? Vols ser **el padrí d'unes lletres**? 
 
 <!--more--> 
 
