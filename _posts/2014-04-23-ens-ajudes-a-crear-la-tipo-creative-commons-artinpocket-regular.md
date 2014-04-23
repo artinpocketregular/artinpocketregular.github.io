@@ -3,7 +3,7 @@ layout: post
 title: "Ens ajudes a crear la tipo Creative Commons Artinpocket Regular?"
 share: true
 category: general
-published: true
+published: false
 ---
 
 <figure class="text-center">
