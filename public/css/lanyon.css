@@ -67,6 +67,9 @@ h1 span {
 .shop a.btn {
   color: #ffffff!important;
 }
+.shop table {
+  display: block!important;
+}
 div.item p input.item_Quantity {
   text-align: right;
 }
