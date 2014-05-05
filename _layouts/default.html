@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="theme-base-0a {% if page.category == 'mur' %}mur{% endif %}{% if page.category == 'mur-diari' or page.title == 'Donatius' %}mur-diari{% endif %}">
+  <body class="theme-base-0a {% if page.category == 'mur' %}mur{% endif %}{% if page.category == 'mur-diari' or page.title == 'Aportacions' %}mur-diari{% endif %}">
 
     {% include sidebar.html %}
 
@@ -34,7 +34,7 @@
       </p>
       </div>
     </footer>
-    {% if page.title == 'Home' or page.title == 'Donatius' %}
+    {% if page.title == 'Home' or page.title == 'Aportacions' %}
       <script src="/public/js/simpleCart.js"></script>
       <script>
         simpleCart({
@@ -42,7 +42,7 @@
           language:'catalan',
           cartStyle:'table',
           cartColumns     : [
-              { attr: "name", label: "Donatiu" },
+              { attr: "name", label: "Aportació" },
               { attr: "price", label: "Preu", view: 'currency' },
               { view: "decrement", label: false },
               { attr: "quantity", label: "Quantitat" },

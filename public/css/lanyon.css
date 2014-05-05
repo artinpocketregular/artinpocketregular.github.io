@@ -64,6 +64,9 @@ figure img {
 h1 span {
   font-size: 1.5rem;
 }
+.shop a.btn {
+  color: #ffffff!important;
+}
 @media (min-width: 38rem) {
   body.mur .post, body.mur-diari .post, .shop .post {
     width: 14rem;
