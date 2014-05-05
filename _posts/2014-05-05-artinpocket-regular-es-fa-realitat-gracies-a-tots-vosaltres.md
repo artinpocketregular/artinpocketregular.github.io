@@ -13,7 +13,9 @@ published: true
 	</figcaption>
 </figure>
 
-Fa exactament 40 dies, vam iniciar una campanya a la plataforma verkami: **Artinpocket Regular**, lletres al servei de l'art, i avui us volem comunicar que **es farà realitat gràcies a la col·laboració de tots vosaltres**. **Us volem agrair de tot cor la vostra participació**, moltes gràcies per convertir-vos en els mecenes d'aquesta nova tipografia i creure en el projecte.
+Fa exactament 40 dies, vam iniciar una campanya a la plataforma verkami: **Artinpocket Regular**, lletres al servei de l'art, i avui us volem comunicar que **es farà realitat gràcies a la col·laboració de tots vosaltres**. **Us volem agrair de tot cor la vostra participació**, moltes gràcies per convertir-vos en els mecenes d'aquesta nova tipografia i creure en el projecte. 
+
+<!--more--> 
 
 El nostre objectiu era crear una tipografia amb llicència oberta per poder posar-la al servei de l'art i la cultura contemporànies. Lletres que esdevinguin una veu adient per als projectes culturals i artístics i s'adeqüin a la cultura visual del públic objectiu. En definitiva unes lletres, que contribueixin a transmetre les idees dels creadors que s'adaptin a les noves tecnologies i que puguin ser usades a blogs, edicions, webs i catàlegs.
 
