@@ -67,6 +67,11 @@ h1 span {
 .shop a.btn {
   color: #ffffff!important;
 }
+div.item p input.item_Quantity {
+  width: 10px;
+  text-align: center;
+  display: inline;
+}
 @media (min-width: 38rem) {
   body.mur .post, body.mur-diari .post, .shop .post {
     width: 14rem;
