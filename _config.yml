@@ -19,6 +19,7 @@ author:
   url:            https://twitter.com/freecates
 
 paginate:         8
+paginate_path:    "blog/page:num"
 
 # Custom vars
 version:          1.0.0
