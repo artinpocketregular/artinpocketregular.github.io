@@ -5,7 +5,7 @@ category: mur
 ---
 
 <div class="posts">
-  {% for post in site.categories['patrocinadors'] %}
+  {% for post in site.categories['patrocinadors'] reversed %}
   <div class="post">
 
     {{ post.content }}
