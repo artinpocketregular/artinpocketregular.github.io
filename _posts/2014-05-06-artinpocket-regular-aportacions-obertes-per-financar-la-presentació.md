@@ -2,7 +2,9 @@
 layout: post
 title: "Artinpocket Regular, aportacions obertes per finançar la presentació"
 share: true
-category: general
+categories:
+  - general
+  - home
 published: true
 ---
 
