@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comença la producció de les recompenses de Artinpocket Regular"
+title: "Comença la producció de les recompenses d'Artinpocket Regular"
 share: true
 categories:
   - general
