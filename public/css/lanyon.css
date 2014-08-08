@@ -121,6 +121,9 @@ div.item p input.item_Quantity {
   h1, figure {
     margin-left: -4rem;
   }
+  .jumbotron h1 {
+    margin-left: 0;
+  }
   h1 {
     font-size: 4rem;
   }

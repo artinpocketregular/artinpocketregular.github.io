@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-{% include download.html %}
+<div class="jumbotron text-center">
+  {% include download.html %}
+</div>
 
 <div class="posts">
   {% for post in site.categories.home limit: 1 %}
